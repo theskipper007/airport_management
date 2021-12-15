@@ -1,0 +1,7 @@
+{
+    "flight_details":[
+        
+            {"flight id":"0101","source":"Chennai","destination":"Bangalore","fare":"1000","passenger_count":"0"}
+        
+    ]
+}
